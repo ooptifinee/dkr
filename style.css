@@ -1,0 +1,92 @@
+ .text1 {
+    width: 256px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    float: left;
+    margin-bottom: 0px;
+	background-color: rgba(66, 255, 98, 0.678);
+	font-size: 120%;
+	    
+}
+
+
+#text1{
+	right: 255px;
+}
+
+
+#url {
+	text-align: right;
+}
+
+
+#lll {
+	text-align: center;
+}
+
+
+}
+
+.knopka1 {
+    background-color: grey;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: 10px;
+    padding: 10px;
+    position: relative;
+}
+
+
+.r1 {
+border-width: 0 3px 0 0; border-style: solid; padding-right: 10px;
+}
+
+
+.dkr11 {
+	font-family: 'Jura', sans-serif;
+	text-align: center;
+
+}
+
+h1 {
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.pikachu {
+font-family: 'Exo 2', sans-serif;
+}
+
+#title1 {
+	background-color: darkcyan;
+	display: inline-block;
+	padding: 3px;
+	position: absolute;
+	left: 50px;
+}
+
+
+#title2 {
+	background-color: rgb(227, 255, 71);
+	display: inline-block;
+	padding: 3px;
+	position: absolute;
+	left: 350px;
+}
+
+#title3 {
+	background-color: darkgrey;
+	display: inline-block;
+	padding: 3px;
+	position: absolute;
+	left: 650px;
+}
+
+#title4 {
+	background-color: rgb(224, 224, 224);
+	display: inline-block;
+	padding: 3px;
+	position: absolute;
+	left: 950px;
+}
