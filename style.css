@@ -1,0 +1,148 @@
+
+h1, h2{
+		font-family: 'Lobster', cursive;
+    text-align: center;
+}
+*{
+    font-family: 'Dancing Script', cursive;
+
+}
+h3{
+    font-family: 'Hanalei Fill', cursive;
+
+}
+table{
+    border: 1px solid black;
+    margin-bottom: 16px;
+
+}
+th, td{
+    border: 1px solid black;
+}
+
+li {
+	font-family: 'Dancing Script', cursive;
+}
+
+p {
+	font-family: 'Dancing Script', cursive;
+}
+}
+.zg {
+
+}
+
+.zg{
+		font-family: 'Hind', sans-serif;
+    border: 1px solid black;
+	    background-color: silver;
+	    color: black;
+    	margin-top: 0;
+	    padding: 1px;
+	    height: 30px;
+	    position: relative;
+		text-align: center;
+	    top: 0;
+	    width: 100px;
+	    float: 
+	    left: 0;
+}
+
+.adp {
+	font-family: 'Hind', sans-serif;
+    background-color: #EF5C5C;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    color: #000000;
+    position: relative;
+}
+.zg2{
+	font-family: 'Hind', sans-serif;
+    border: 1px solid black;
+	    background-color: silver;
+	    color: black;
+    	margin-top: 0;
+	    padding: 1px;
+	    height: 30px;
+	    position: relative;
+		text-align: center;
+	    top: 0;
+	    width: 100px;
+	    float: 
+	    left: 0;
+}
+.adp2 {
+	font-family: 'Hind', sans-serif;
+    background-color: #3A7A8D;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    color: #6EE1AC;
+    position: relative;
+}
+.zg3{
+	font-family: 'Hind', sans-serif;
+    border: 1px solid black;
+	    background-color: silver;
+	    color: black;
+    	margin-top: 0;
+	    padding: 1px;
+	    height: 30px;
+	    position: relative;
+		text-align: center;
+	    top: 0;
+	    width: 100px;
+	    float: left;
+	    left: 0;
+}
+.adp3 {
+	font-family: 'Hind', sans-serif;
+    background-color: aquamarine;
+    margin-bottom: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    color: crimson;
+    padding: 10px;
+    position: relative;
+}
+.zg4{
+	font-family: 'Hind', sans-serif;
+    border: 1px solid black;
+	    background-color: silver;
+	    color: black;
+    	margin-top: 0;
+	    padding: 1px;
+	    height: 30px;
+	    position: relative;
+		text-align: center;
+	    top: 0;
+	    width: 140px;
+	    float: left;
+	    left: 0;
+}
+.adp4 {
+	font-family: 'Hind', sans-serif;
+    background-color: #6A647F;
+    margin-bottom: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    color: crimson;
+    padding: 10px;
+    position: relative;
+
+}
+
+.image{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.picl {
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+}
